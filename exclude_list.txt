@@ -1,0 +1,15 @@
+*.pickle
+tmp/
+outputs/
+.git/
+*cache*
+latex/
+pix/
+*~
+*ipynb*
+tests/
+nohup.out
+exclude_list.txt
+README.md
+conftest.py
+
